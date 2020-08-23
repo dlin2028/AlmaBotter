@@ -247,6 +247,9 @@ var cmds = function(message, keyword, command, buffName) {
         output = "too looong";
       message.channel.send(output);
       break;
+
+    case "role":
+      
   }
 }
 
